@@ -1,0 +1,77 @@
+body{
+    margin:0px;
+    padding:0px;
+    font-family: "Georgia";
+}
+
+#header{
+    margin:20px;
+    margin-left: 35px;
+    padding:0px;
+    background-color:#00FFFF;
+    color:#248f8b;
+    
+}
+
+
+
+#friends{
+    margin-left: 15px;
+    
+    padding:0px;
+    background-color:#7fffd4;
+    border: 5px;
+    border-style: solid;
+    border-color: #008080;
+    
+}
+
+
+li{
+    margin:0px;
+    padding:0px;
+    color:#5f9ea0;
+}
+
+ul{
+    color:#5f9ea0;
+}
+
+h1, h2{
+    font-weight: normal;
+	font-family: "Century Gothic";
+	margin: 3px;
+	padding: 0px;
+}
+
+.spatulas{
+    margin-left: 15px;
+    
+    padding:0px;
+    border: 5px;
+    border-style: solid;
+    border-color: #c2f0ee;
+    background-color:#E0FFFF;
+    color: #29a39f;
+ 
+}
+
+
+.cookie{
+    margin-left: 15px;
+    
+    padding:0px;
+    border: 5px;
+    border-style: solid;
+    border-color: #c2f0ee;
+    background-color: #E0FFFF;
+    color:#29a39f;
+}
+
+
+
+
+
+
+
+
